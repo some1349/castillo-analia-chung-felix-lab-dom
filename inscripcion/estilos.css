@@ -1,0 +1,93 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 0 16px;
+}
+
+[hidden] {
+  display: none !important;
+}
+
+.campo {
+  margin-bottom: 14px;
+}
+
+label,
+legend {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 4px;
+}
+
+input,
+select,
+textarea {
+  width: 100%;
+  padding: 6px;
+  box-sizing: border-box;
+  border: 1px solid #999;
+}
+
+.opcion {
+  font-weight: normal;
+}
+
+.opcion input {
+  width: auto;
+}
+
+/* Errores */
+[aria-invalid="true"] {
+  border-color: red;
+}
+
+[aria-invalid="false"] {
+  border-color: green;
+}
+
+.error {
+  color: red;
+  font-size: 14px;
+  margin: 4px 0 0;
+}
+
+/* Contador de comentarios */
+.contador {
+  font-size: 13px;
+  margin: 4px 0 0;
+}
+
+.contador.aviso {
+  color: orange;
+}
+
+.contador.excedido {
+  color: red;
+}
+
+/* Medidor de fuerza */
+.medidor {
+  height: 6px;
+  background: #ddd;
+  margin-top: 6px;
+}
+
+#medidor-barra {
+  display: block;
+  height: 100%;
+  width: 0;
+  background: red;
+}
+
+.ayuda {
+  font-size: 13px;
+  margin: 4px 0 0;
+}
+
+/* Tarjeta de confirmación */
+.tarjeta {
+  border: 1px solid green;
+  padding: 12px;
+  margin-top: 20px;
+}
