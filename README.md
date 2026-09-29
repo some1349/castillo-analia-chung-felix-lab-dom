@@ -7,8 +7,8 @@
 **Grupo:** 1SF133
 
 ## Enlaces
-- Repositorio: https://github.com/some1349/castillo-analia-chung-felix-lab-dom
-- Tarea 4 (GitHub Pages): https://some1349.github.io/castillo-analia-chung-felix-lab-dom/inscripcion/
+- Repositorio: [https://github.com/some1349/castillo-analia-chung-felix-lab-dom](https://github.com/some1349/castillo-analia-chung-felix-lab-dom)
+- Tarea 4 (GitHub Pages): [https://some1349.github.io/castillo-analia-chung-felix-lab-dom/inscripcion/](https://some1349.github.io/castillo-analia-chung-felix-lab-dom/inscripcion/)
 
 ## Contenido
 - lab-dom/: laboratorio guiado de DOM, eventos y validación.
