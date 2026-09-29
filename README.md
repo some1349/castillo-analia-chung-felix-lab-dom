@@ -16,7 +16,11 @@ Contenido
 
 Capturas
 Validaciones con errores
+
+
 <img width="385" height="756" alt="image" src="https://github.com/user-attachments/assets/9b536e0a-bde6-4435-9068-5ba10a4fc4fb" />
 
 Inscripción confirmada
+
+
 <img width="405" height="891" alt="image" src="https://github.com/user-attachments/assets/f1f2981d-1e32-4462-9371-32af69e18d42" />
